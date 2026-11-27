@@ -10,8 +10,8 @@
 |---|---|---|
 | Props | 76.2 mm | 88.9 mm |
 | Wheelbase | 116 mm | 136 mm |
-| Arm width | 7 mm | 9 mm |
-| Arm thickness | 3 mm | 4 mm |
+| Arm width (shared starting concept) | 8 mm | 8 mm |
+| Arm thickness (shared starting concept) | 3 mm | 3 mm |
 | Motor mounting candidate | 9 mm | 12 mm |
 | Power | 3S | 4S |
 
