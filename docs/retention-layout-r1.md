@@ -1,5 +1,7 @@
 # Retention layout R1 — shared center concept
 
+**Superseding direction:** [Upstream-first adaptation](upstream-adaptation.md) is the current mechanical strategy. Bespoke R0/R1 retention is historical exploration; do not implement it as the baseline.
+
 Exploratory dimensions in mm. Both variants use 4 mm carbon arms, 6 mm shafts and 2 mm plates. This is a dimensioned planar study, not a printable or machinable assembly.
 
 ## Common geometry
