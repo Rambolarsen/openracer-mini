@@ -1,4 +1,6 @@
 # Mechanical concepts — revision 0
+
+**Superseding direction:** [Upstream-first adaptation](upstream-adaptation.md) is the current mechanical strategy. Bespoke R0/R1 retention is historical exploration; do not implement it as the baseline.
 Addresses #4 and #5; exploratory, not a release. Mini 3 first. No upstream CAD copied.
 
 ## Coordinate system and skeleton
