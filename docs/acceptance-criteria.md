@@ -3,7 +3,7 @@ Status: draft for review; numbers are engineering proposals, not proven limits.
 
 | Criterion | Mini 3 | Mini 3.5 |
 |---|---|---|
-| Frame mass incl canopy/hardware | <=20 g | <=30 g |
+| Frame mass incl canopy/hardware (provisional planning target, not a release gate) | 20 g | 30 g |
 | Ready-to-fly mass incl battery | <=120 g | <=180 g |
 | Nominal wheelbase | 116 mm | 136 mm |
 | Static adjacent prop tip gap | >=4 mm | >=4 mm |
