@@ -3,13 +3,13 @@ wheelbase,mm,116,136,target
 prop_diameter,mm,76.2,88.9,nominal
 stack_pitch,mm,25.5,25.5,nominal
 board_width,mm,31.3,33,nominal
-arm_width,mm,7,9,target
-arm_thickness,mm,3,4,target
+arm_width,mm,8,8,concept
+arm_thickness,mm,3,3,concept
 motor_pitch,mm,9,12,unverified
 root_inner_radius,mm,8,8,concept
-root_outer_radius,mm,24,25,concept
+root_outer_radius,mm,24,24,concept
 retainer_radius,mm,10,10,concept
-retainer_outer_radius,mm,24,25,concept
+retainer_outer_radius,mm,24,24,concept
 retainer_screw_diameter,mm,2,2,concept
 retainer_head_radius,mm,2,2,assumed
 stack_keepout_radius,mm,3.5,3.5,assumed
